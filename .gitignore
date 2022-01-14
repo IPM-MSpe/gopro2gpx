@@ -21,3 +21,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+*venv*/
+.idea/
+misc/output/
